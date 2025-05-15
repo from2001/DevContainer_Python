@@ -1,0 +1,2 @@
+# DevContainer_Python
+Dev ContainerでPythonの環境を構築するサンプル
